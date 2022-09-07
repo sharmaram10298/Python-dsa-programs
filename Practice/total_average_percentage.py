@@ -1,0 +1,6 @@
+com=str(input("Enter the Student Name: "))
+num1=int(input("Enter the English Subject Mark: "))
+num2=int(input("Enter the Mrathi Subject Mark: "))
+num3=int(input("Enter the Hindi Subject Mark: "))
+num4=int(input("Enter the Mathematic Subject Mark: "))
+num5=int(input("Enter the Scince Subject Mark: "))

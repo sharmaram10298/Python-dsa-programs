@@ -1,0 +1,21 @@
+def printinfo(name='xyz',age=35):
+    print("Name : ", name)
+    print("Age : ", age)
+
+# Now you can call printinfo function
+printinfo(age=20,name="virash")
+print("*******************************")
+printinfo(name="virash")
+print("*******************************")
+printinfo(age=25)
+print("*******************************")
+printinfo()
+print("*******************************")
+printinfo('shalini')
+print("*******************************")
+printinfo(20)
+print("*******************************")
+printinfo('dsfa',23)
+print("*******************************")
+printinfo(age=20)
+print("*******************************")
